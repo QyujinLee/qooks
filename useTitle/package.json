@@ -1,0 +1,25 @@
+{
+  "name": "@qooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hooks to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QyujinLee/qooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "gyujinLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QyujinLee/qooks/issues"
+  },
+  "homepage": "https://github.com/QyujinLee/qooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
