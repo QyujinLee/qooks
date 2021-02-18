@@ -1,0 +1,25 @@
+{
+  "name": "@qooks/use-scroll",
+  "version": "1.0.0",
+  "description": "react hooks to use scroll",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qyujinLee/qooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "tab"
+  ],
+  "author": "gyujinLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qyujinLee/qooks/issues"
+  },
+  "homepage": "https://github.com/qyujinLee/qooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

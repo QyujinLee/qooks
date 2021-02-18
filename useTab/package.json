@@ -1,0 +1,25 @@
+{
+  "name": "@qooks/use-tab",
+  "version": "1.0.0",
+  "description": "React hooks to use tab",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qyujinLee/qooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "tab"
+  ],
+  "author": "gyujinLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qyujinLee/qooks/issues"
+  },
+  "homepage": "https://github.com/qyujinLee/qooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
